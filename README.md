@@ -3,7 +3,7 @@
 > Pimon is inspired by the traditional [simon game](https://en.wikipedia.org/wiki/Simon_(game)). I implemented a pico-8 version of this classical game to train my brain.
 
 ![alt screencast](https://github.com/Milchreis/pimon/blob/main/pimon_0.gif?raw=true "game play")
-![alt cart](https://github.com/Milchreis/pimon/blob/main/pimon-1.p8.png?raw=true "pico 8 cart)
+![alt](https://github.com/Milchreis/pimon/blob/main/pimon-1.p8.png?raw=true "pico 8 cart")
  * [Play it here](https://www.lexaloffle.com/bbs/?tid=46491)
  * [Pico-8 cart](https://github.com/Milchreis/pimon/blob/main/pimon-1.p8.png?raw=true)
 
