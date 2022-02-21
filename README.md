@@ -6,6 +6,7 @@
 ![alt](https://github.com/Milchreis/pimon/blob/main/pimon-1.p8.png?raw=true "pico 8 cart")
  * [Play it here](https://www.lexaloffle.com/bbs/?tid=46491)
  * [Pico-8 cart](https://github.com/Milchreis/pimon/blob/main/pimon-1.p8.png?raw=true)
+ * [Lexaloffle BBS](https://www.lexaloffle.com/bbs/?tid=46491)
 
 # Rules
 Pimon plays at first two tones. After that you have to repeat this tones in the correct order. If your are correct pimon will repeat the tones and add one more. Now you have to repeat it again and again ...
